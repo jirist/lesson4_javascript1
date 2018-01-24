@@ -59,9 +59,10 @@
 
                   shelterAmt = parseFloat(shelterAmt);
                   foodAmt = parseFloat(foodAmt);
-
-
-
+                  householdAmt = parseFloat(householdAmt);
+                  transportationAmt = parseFloat(transportationAmt);
+                  miscellaneousAmt = parseFloat(miscellaneousAmt);
+                  
 
                   /******************************************************************************************************
                    * Task 4:  Add the additional code needed to declare variables that will store the calculation
