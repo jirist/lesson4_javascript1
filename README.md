@@ -4,17 +4,16 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+January 24, 2018
 
 ### Student Name:  
-(First and Last Name)
+Jiri Stanc
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using javascript based application template, the purpose of this assignment is to build a basic monthly expense calculator.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(insert link)
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
