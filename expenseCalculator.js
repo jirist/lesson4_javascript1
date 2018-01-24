@@ -81,8 +81,9 @@
                   var totalExpenses; //total expenses for the user
                   var shelterPct; //shelter category percentage
                   var foodPct;  //food category percentage
-
-
+                  var householdPct;  //household category percentage
+                  var transportationPct;  //transportation category percentage
+                  var miscellaneousPct;  //miscellaneous category percentage
 
 
                   /******************************************************************************************************
