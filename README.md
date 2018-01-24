@@ -16,9 +16,9 @@ Using javascript based application template, the purpose of this assignment is t
 (insert link)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Variable declaration and the importance of using good naming conventions (for example, Variable names written using "camelCase" method).
+2. Accessing and manipulating HTML elements using HTML DOM getElementById() method (the most common way to access an element in the DOM is by its ID).
+3. Converting a value from string to float using parseFloat() method (the result of parseFloat method is a number found in the string).
 
 
 
