@@ -109,9 +109,12 @@
                    *          variables declared in Task 4.  
                   *******************************************************************************************************/   
 
-
+                  totalExpenses = shelterAmt + foodAmt + householdAmt + transportationAmt + miscellaneousAmt;
                   shelterPct = 100 * (shelterAmt / totalExpenses);
                   foodPct = 100 * (foodAmt / totalExpenses);
+                  householdPct = 100 * (householdAmt / totalExpenses);
+                  transportationPct = 100 * (transportationAmt / totalExpenses);
+                  miscellaneousPct = 100 * (miscellaneousAmt / totalExpenses);
 
 
                   /******************************************************************************************************
