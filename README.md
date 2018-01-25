@@ -10,7 +10,7 @@ January 24, 2018
 Jiri Stanc
 
 ### Project Description:
-Using javascript based application template, the purpose of this assignment is to build a basic monthly expense calculator.
+Using javascript based application template, the purpose of this assignment is to develop a basic monthly expense calculator.
 
 ### View Project:
 https://jirist.github.io/lesson4_javascript1/
