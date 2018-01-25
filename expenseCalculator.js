@@ -2,7 +2,7 @@
           Course:  Web Application Development
           Assignment:  Lesson 4 (JavaScript 1)
           Author:  Jiri Stanc
-          Date:   January 24, 2018
+          Date:   January 25, 2018
           Filename: expenseCalculator.js
         *************************************************************************************************/
      
